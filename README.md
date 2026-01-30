@@ -15,6 +15,7 @@ git clone https://github.com/underxploit/Autov
 cd Autov
 ```
 
-```php mamundv-blog.php
+```
+php mamundv-blog.php
 ```
 
